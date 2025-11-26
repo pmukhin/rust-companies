@@ -12,6 +12,9 @@ Curated list of companies that use Rust and hire Rust developers
 * [Coralogix](https://coralogix.com/careers/) uses Rust in almost every component of their advanced observability platform
 * [DataDog](https://careers.datadoghq.com/all-jobs/) uses Rust in critical components
 
+#### Productivity
+* [Proton](https://job-boards.eu.greenhouse.io/proton) uses Rust in Proton Mail and Proton Calendar platforms 
+
 #### Social Networks
 * [Amo](https://amo.co/jobs/) uses Rust on both the backend and the UI (iOS & Android)
 
