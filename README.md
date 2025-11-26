@@ -1,8 +1,12 @@
 # Rust Companies
 Curated list of companies that use Rust and hire Rust developers
 
+#### Cloud
+* [Cloudflare]([https://www.cloudflare.com](https://www.cloudflare.com/nl-nl/careers/jobs/?department=Engineering&title=Rust)) uses Rust in all its critical components, actively hires Rust developers
+
 #### Crypto
-* [Cryptio](https://cryptio.co/careers#open-roles) Enterprise-grade accounting, audit, loan management and token compliance
+* [Cryptio](https://cryptio.co/careers#open-roles) enterprise-grade accounting, audit, loan management and token compliance
+* [Kraken](https://www.kraken.com/careers) uses Rust in its most heavily loaded components such as matching engine
 
 #### Observability platforms
 * [Coralogix](https://coralogix.com/careers/) uses Rust in almost every component of their advanced observability platform
