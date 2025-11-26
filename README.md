@@ -27,4 +27,4 @@ Curated list of companies that use Rust and hire Rust developers
 * [BlockTech](https://www.block-tech.io/careers) is a market maker based in Amsterdam, uses Rust for low latency components
 * [BLoSH](https://www.bloshtrading.com/) is a small proprietary trading shop that uses Rust in its trading stack
 * [Flow Traders](https://www.flowtraders.com/careers/job-search/) is a market maker based in Amsterdam, uses Rust for DeFi, Blockchain, Digital Assets and other components
-* [Keyrock](https://keyrock.com/careers/) a market maker based out of Brussels, uses Rust in its low latency components along with C++
+* [Keyrock](https://keyrock.com/careers/) is a market maker based out of Brussels, uses Rust in its low latency components along with C++
