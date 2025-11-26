@@ -9,7 +9,7 @@ Curated list of companies that use Rust and hire Rust developers
 
 #### Crypto
 * [Blockchain.com](https://www.blockchain.com/careers) is a major exchange known to use Rust in the OTC domain
-* [Cryptio](https://cryptio.co/careers#open-roles) enterprise-grade accounting, audit, loan management and token compliance
+* [Cryptio](https://cryptio.co/careers#open-roles) is an enterprise-grade accounting, audit, loan management and token compliance firm from the UK
 * [Kraken](https://www.kraken.com/careers) uses Rust in its most heavily loaded components such as matching engine
 
 #### Observability
@@ -23,7 +23,7 @@ Curated list of companies that use Rust and hire Rust developers
 * [Amo](https://amo.co/jobs/) uses Rust on both the backend and the UI (iOS & Android)
 
 #### Trading
-* [BHFT](https://bhft.com/join-us) is a proprietary trading shop, the internals are unknown, but they employ quite a few Rust developers according to Linkedin
+* [BHFT](https://bhft.com/join-us) is a proprietary trading shop based out of Dubai, the internals are unknown, but they employ quite a few Rust developers according to Linkedin
 * [BlockTech](https://www.block-tech.io/careers) is a market maker based in Amsterdam, uses Rust for low latency components
 * [BLoSH](https://www.bloshtrading.com/) is a small proprietary trading shop that uses Rust in its trading stack
 * [Flow Traders](https://www.flowtraders.com/careers/job-search/) is a market maker based in Amsterdam, uses Rust for DeFi, Blockchain, Digital Assets and other components
