@@ -4,6 +4,9 @@ Curated list of companies that use Rust and hire Rust developers
 #### Cloud
 * [Cloudflare](https://www.cloudflare.com/nl-nl/careers/jobs/?department=Engineering&title=Rust) uses Rust in all its critical components, actively hires Rust developers
 
+#### Commerce
+* [commercetools](https://commercetools.com/careers/jobs) uses Rust in its GraphQL API
+
 #### Crypto
 * [Blockchain.com](https://www.blockchain.com/careers) is a major exchange known to use Rust in the OTC domain
 * [Cryptio](https://cryptio.co/careers#open-roles) enterprise-grade accounting, audit, loan management and token compliance
