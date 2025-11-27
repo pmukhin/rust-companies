@@ -8,7 +8,7 @@ Curated list of companies in EMEA and APAC regions that use Rust and hire Rust d
 * [commercetools](https://commercetools.com/careers/jobs) uses Rust in its GraphQL API
 
 #### Crypto
-* [Blockchain.com](https://www.blockchain.com/careers) is a major exchange known to use Rust in the OTC domain
+* [Blockchain.com](https://www.blockchain.com/careers) is a major exchange known to use Rust in the Institutional OTC domain
 * [Cryptio](https://cryptio.co/careers#open-roles) is an enterprise-grade accounting, audit, loan management and token compliance firm from the UK
 * [Kraken](https://www.kraken.com/careers) uses Rust in its most heavily loaded components such as matching engine
 
