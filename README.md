@@ -10,7 +10,7 @@ Curated list of companies in EMEA and APAC regions that use Rust and hire Rust d
 #### Crypto
 * [Blockchain.com](https://www.blockchain.com/careers) is a major exchange known to use Rust in the Institutional OTC domain
 * [Cryptio](https://cryptio.co/careers#open-roles) is an enterprise-grade accounting, audit, loan management and token compliance firm from the UK
-* [IOHK](https://apply.workable.com/io-global/#jobs) is a company behind the Cardano blockchain, uses Rust in a multitude of domains
+* [IOHK](https://apply.workable.com/io-global/#jobs) is the company behind the Cardano blockchain, uses Rust in a multitude of domains
 * [Kraken](https://www.kraken.com/careers) uses Rust in its most heavily loaded components such as matching engine
 
 #### Observability
