@@ -6,6 +6,7 @@ Curated list of companies in EMEA and APAC regions that use Rust and hire Rust d
 
 #### Commerce
 * [commercetools](https://commercetools.com/careers/jobs) uses Rust in its GraphQL API
+* [Stockly](https://www.welcometothejungle.com/fr/companies/stockly/jobs) claims their back-end is written entirely in Rust
 
 #### Crypto
 * [Blockchain.com](https://www.blockchain.com/careers) is a major exchange known to use Rust in the Institutional OTC domain
