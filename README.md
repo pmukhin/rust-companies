@@ -1,5 +1,5 @@
 # Rust Companies
-Curated list of companies in EMEA and APAC regions that use Rust and hire Rust developers
+Curated list of companies that use Rust and hire Rust developers in EMEA and APAC regions
 
 #### Cloud
 * [Cloudflare](https://www.cloudflare.com/nl-nl/careers/jobs/?department=Engineering&title=Rust) uses Rust in all its critical components, actively hires Rust developers
