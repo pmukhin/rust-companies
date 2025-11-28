@@ -15,10 +15,10 @@ Curated list of companies that use Rust and hire Rust developers in EMEA and APA
 * [Kraken](https://www.kraken.com/careers) uses Rust in its most heavily loaded components such as matching engine
 
 #### Data
-* [Polars](https://pola.rs/careers)([GitHub](https://github.com/pola-rs/polars)) is the company behind Polars, an open-source library for data manipulation, known for being one of the fastest data processing solutions on a single machine, based in Amsterdam
+* [Polars](https://pola.rs/careers)([Github](https://github.com/pola-rs/polars)) is the company behind Polars, an open-source library for data manipulation, known for being one of the fastest data processing solutions on a single machine, based in Amsterdam
 
 #### Observability
-* [Coralogix](https://coralogix.com/careers/) uses Rust in almost every component of their advanced observability platform
+* [Coralogix](https://coralogix.com/careers/)([Github](https://github.com/orgs/coralogix/repositories?q=lang%3Arust&type=all)) uses Rust in almost every component of their advanced observability platform
 * [Datadog](https://careers.datadoghq.com/all-jobs/) uses Rust in critical components
 
 #### Productivity
