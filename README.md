@@ -2,7 +2,7 @@
 Curated list of companies that use Rust and hire Rust developers in EMEA and APAC regions
 
 #### Cloud
-* [Cloudflare]([Github](https://github.com/cloudflare))(https://www.cloudflare.com/nl-nl/careers/jobs/?department=Engineering&title=Rust) uses Rust in all its critical components, actively hires Rust developers
+* [Cloudflare](https://www.cloudflare.com/nl-nl/careers/jobs/?department=Engineering&title=Rust)([Github](https://github.com/cloudflare)) uses Rust in all its critical components, actively hires Rust developers
 
 #### Commerce
 * [commercetools](https://commercetools.com/careers/jobs) uses Rust in its GraphQL API
