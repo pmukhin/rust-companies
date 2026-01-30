@@ -26,13 +26,14 @@ This project exists to help Rust developers to apply for jobs and get hired.
 * [Datadog](https://careers.datadoghq.com/all-jobs/) uses Rust in critical components
 
 #### Productivity
+* [1Password](https://jobs.ashbyhq.com/1password?departmentId=96a94955-dadd-4290-94ad-1ab70ecccace)([Github](https://github.com/1Password)) is a (remote-first) company behind the popular password manager, they hire Rust devs in both the USA and Europe
 * [Proton](https://job-boards.eu.greenhouse.io/proton) uses Rust in Proton Mail and Proton Calendar platforms 
 
 #### Social Networks
 * [Amo](https://amo.co/jobs/) uses Rust on both the backend and the UI (iOS & Android)
 
 #### Trading
-* [BHFT](https://bhft.com/join-us) is a proprietary trading shop based out of Dubai, the internals are unknown, but they employ quite a few Rust developers according to Linkedin
+* [BHFT](https://bhft.com/join-us) is a proprietary trading shop based out of Dubai that employs quite a few Rust developers according to Linkedin
 * [BlockTech](https://www.block-tech.io/careers) is a market maker based in Amsterdam, uses Rust for low latency components
 * [BLoSH](https://www.bloshtrading.com/) is a small proprietary trading shop based in Amsterdam whose core trading code is all in Rust
 * [Flow Traders](https://www.flowtraders.com/careers/job-search/) is a market maker based in Amsterdam, uses Rust for DeFi, Blockchain, Digital Assets and other components
