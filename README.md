@@ -37,3 +37,6 @@ This project exists to help Rust developers to apply for jobs and get hired.
 * [BLoSH](https://www.bloshtrading.com/) is a small proprietary trading shop based in Amsterdam whose core trading code is all in Rust
 * [Flow Traders](https://www.flowtraders.com/careers/job-search/) is a market maker based in Amsterdam, uses Rust for DeFi, Blockchain, Digital Assets and other components
 * [Keyrock](https://keyrock.com/careers/) is a market maker based out of Brussels, uses Rust in its low latency components along with C++
+
+#### Other
+* [Ferrisoft](https://ferrisoft.com/careers) is a software house based out of Krakow, Poland, they hire engineers comfortable working across both Rust and modern web stacks
