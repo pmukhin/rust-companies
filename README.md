@@ -33,7 +33,7 @@ This project exists to help Rust developers to apply for jobs and get hired.
 * [Proton](https://job-boards.eu.greenhouse.io/proton) uses Rust in Proton Mail and Proton Calendar platforms 
 
 #### Robotics
-* [Rerun](https://rerun.io/careers)([Github](https://github.com/rerun-io/)) is a company developing opensource SDK for visualizing multimodal data. Based out of Stockholm, Sweden
+* [Rerun](https://rerun.io/careers)([Github](https://github.com/rerun-io/)) is a company developing opensource SDK for visualizing multimodal data, based out of Stockholm, Sweden
 
 #### Social Networks
 * [Amo](https://amo.co/jobs/) uses Rust on both the backend and the UI (iOS & Android)
