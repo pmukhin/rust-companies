@@ -41,4 +41,4 @@ This project exists to help Rust developers to apply for jobs and get hired.
 
 #### Other
 * [Ferrisoft](https://ferrisoft.com/careers) is a software house based out of Krakow, Poland, they hire engineers comfortable working across both Rust and modern web stacks
-* [Tweede Golf](https://tweedegolf.nl/) is a consultancy firm specialised in Rust, based in Nijmegen, Netherlands
+* [Tweede Golf](https://tweedegolf.nl/)([Github](https://tweedegolf.nl/en/open-source)) is a consultancy firm specialised in Rust, based in Nijmegen, Netherlands, and known for its contribution into Rust ecosystem
