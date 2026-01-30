@@ -21,6 +21,9 @@ This project exists to help Rust developers to apply for jobs and get hired.
 * [Ditto](https://jobs.ashbyhq.com/ditto)([Github](https://github.com/getditto)) is a cross-platform peer-to-peer database that lets apps sync data in real time across devices automatically forming mesh networks, its core SDK (including networking, data replication via CRDTs, and offline sync) is written in Rust
 * [Polars](https://pola.rs/careers)([Github](https://github.com/pola-rs/polars)) is the company behind Polars, an open-source library for data manipulation, known for being one of the fastest data processing solutions on a single machine, based in Amsterdam
 
+#### Defence
+* [RUAG](https://www.ruag.ch/en/working-us/job-portal) is a Swiss company specialising in aerospace engineering and the defence industries
+
 #### Observability
 * [Coralogix](https://coralogix.com/careers/)([Github](https://github.com/orgs/coralogix/repositories?q=lang%3Arust&type=all)) uses Rust in almost every component of their advanced observability platform
 * [Datadog](https://careers.datadoghq.com/all-jobs/) uses Rust in critical components
