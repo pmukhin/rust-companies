@@ -1,5 +1,5 @@
 # Rust Companies
-Curated list of companies that use Rust and hire Rust developers in EMEA and APAC regions
+Curated list of companies that use Rust in production and hire Rust developers in EMEA and APAC regions
 
 ### Why it exists
 This project exists to help Rust developers to apply for jobs and get hired.
