@@ -14,11 +14,12 @@ This project exists to help Rust developers to apply for jobs and get hired.
 * [commercetools](https://commercetools.com/careers/jobs) uses Rust in its GraphQL API
 * [Stockly](https://www.welcometothejungle.com/fr/companies/stockly/jobs) claims their back-end is written entirely in Rust
 
-#### Crypto
+#### Crypto-currency
 * [Blockchain.com](https://www.blockchain.com/careers) is a major exchange known to use Rust in the Institutional OTC domain
 * [Cryptio](https://cryptio.co/careers#open-roles) is an enterprise-grade accounting, audit, loan management and token compliance firm from the UK
 * [IOHK](https://apply.workable.com/io-global/#jobs) is the company behind the Cardano blockchain, uses Rust in a multitude of domains
 * [Kraken](https://www.kraken.com/careers) uses Rust in its most heavily loaded components such as matching engine
+* [Parity](https://www.parity.io/careers) develops much of Substrate and Polkadot in Rust. 
 
 #### Data
 * [Ditto](https://jobs.ashbyhq.com/ditto)([Github](https://github.com/getditto)) is a cross-platform peer-to-peer database that lets apps sync data in real time across devices automatically forming mesh networks, its core SDK (including networking, data replication via CRDTs, and offline sync) is written in Rust
