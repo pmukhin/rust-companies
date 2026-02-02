@@ -14,7 +14,7 @@ This project exists to help Rust developers to apply for jobs and get hired.
 * [commercetools](https://commercetools.com/careers/jobs) uses Rust in its GraphQL API
 * [Stockly](https://www.welcometothejungle.com/fr/companies/stockly/jobs) claims their back-end is written entirely in Rust
 
-#### Crypto
+#### Cryptocurrency
 * [Blockchain.com](https://www.blockchain.com/careers) is a major exchange known to use Rust in the Institutional OTC domain
 * [Cryptio](https://cryptio.co/careers#open-roles) is an enterprise-grade accounting, audit, loan management and token compliance firm from the UK
 * [IOHK](https://apply.workable.com/io-global/#jobs) is the company behind the Cardano blockchain, uses Rust in a multitude of domains
@@ -33,7 +33,8 @@ This project exists to help Rust developers to apply for jobs and get hired.
 
 #### Productivity
 * [1Password](https://jobs.ashbyhq.com/1password?departmentId=96a94955-dadd-4290-94ad-1ab70ecccace)([Github](https://github.com/1Password)) is a (remote-first) company behind the popular password manager, they hire Rust devs in both the USA and Europe
-* [Proton](https://job-boards.eu.greenhouse.io/proton) uses Rust in Proton Mail and Proton Calendar platforms 
+* [Proton](https://job-boards.eu.greenhouse.io/proton) uses Rust in Proton Mail and Proton Calendar platforms
+* [Zed Industries](https://zed.dev/jobs)([Github](https://github.com/zed-industries)) is a company behind Atom and now Zed, minimal code editor crafted for speed and collaboration with humans and AI
 
 #### Robotics
 * [Rerun](https://rerun.io/careers)([Github](https://github.com/rerun-io/)) is a company developing opensource SDK for visualizing multimodal data, based out of Stockholm, Sweden
