@@ -43,7 +43,6 @@ This project exists to help Rust developers to apply for jobs and get hired.
 * [Amo](https://amo.co/jobs/) uses Rust on both the backend and the UI (iOS & Android)
 
 #### Trading
-* [BAH Partners](https://www.linkedin.com/company/bah/jobs/) is an hedge fund based in Hong Kong
 * [BHFT](https://bhft.com/join-us) is a proprietary trading shop based out of Dubai, UAE that employs quite a few Rust developers according to Linkedin
 * [BlockTech](https://www.block-tech.io/careers) is a market maker based in Amsterdam, Netherlands, uses Rust for low latency components
 * [BLoSH](https://www.bloshtrading.com/) is a small proprietary trading shop based in Amsterdam, Netherlands whose core trading code is all in Rust
