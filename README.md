@@ -14,6 +14,11 @@ This project exists to help Rust developers to apply for jobs and get hired.
 * [commercetools](https://commercetools.com/careers/jobs) uses Rust in its GraphQL API
 * [Stockly](https://www.welcometothejungle.com/fr/companies/stockly/jobs) claims their back-end is written entirely in Rust
 
+#### Consultancy
+* [Ferrisoft](https://ferrisoft.com/careers) is a consultancy firm based out of Krakow, Poland, they hire engineers comfortable working across both Rust and modern web stacks
+* [Mainmatter](https://mainmatter.com/work) is a remote-first consultancy firm based out of Munich, Germany, they're looking for Rust engineers to help migrate their C/C++/Delphi projects to Rust
+* [Tweede Golf](https://tweedegolf.nl/)([Github](https://tweedegolf.nl/en/open-source)) is a consultancy firm specialised in Rust, based in Nijmegen, Netherlands, and known for its contribution into Rust ecosystem
+
 #### Cryptocurrency
 * [Blockchain.com](https://www.blockchain.com/careers) is a major exchange known to use Rust in the Institutional OTC domain
 * [Cryptio](https://cryptio.co/careers#open-roles) is an enterprise-grade accounting, audit, loan management and token compliance firm from the UK
@@ -50,6 +55,4 @@ This project exists to help Rust developers to apply for jobs and get hired.
 * [Keyrock](https://keyrock.com/careers/) is a market maker based out of Brussels, Belgium, uses Rust in its low latency components along with C++
 * [TLX Technology](https://www.linkedin.com/company/tlx-technology/) is a software provider for trading platforms, based in Amsterdam
 
-#### Other
-* [Ferrisoft](https://ferrisoft.com/careers) is a software house based out of Krakow, Poland, they hire engineers comfortable working across both Rust and modern web stacks
-* [Tweede Golf](https://tweedegolf.nl/)([Github](https://tweedegolf.nl/en/open-source)) is a consultancy firm specialised in Rust, based in Nijmegen, Netherlands, and known for its contribution into Rust ecosystem
+
