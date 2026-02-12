@@ -45,7 +45,7 @@ This project exists to help Rust developers to apply for jobs and get hired.
 * [Rerun](https://rerun.io/careers)([Github](https://github.com/rerun-io/)) is a company developing opensource SDK for visualizing multimodal data, based out of Stockholm, Sweden
 
 #### Social Networks
-* [Amo](https://amo.co/jobs/) uses Rust on both the backend and the UI (iOS & Android)
+* [Amo](https://amo.co/jobs/) is a startup from Paris, France, that uses Rust on both the backend and the UI (iOS & Android)
 
 #### Trading
 * [BHFT](https://bhft.com/join-us) is a proprietary trading shop based out of Dubai, UAE that employs quite a few Rust developers according to Linkedin
