@@ -56,6 +56,7 @@ This project exists to help Rust developers to apply for jobs and get hired.
 * [BLoSH](https://www.bloshtrading.com/) is a small proprietary trading shop based in Amsterdam, Netherlands whose core trading code is all in Rust
 * [Flowdesk](https://apply.workable.com/flowdesk/) is a market maker originating in Paris, France
 * [Flow Traders](https://www.flowtraders.com/careers/job-search/) is a market maker based in Amsterdam, uses Rust for DeFi, Blockchain, Digital Assets and other components
+* [Gravity Team](https://gravityteam.co/careers/) is a propshop with offices in Riga, Latvia and Amsterdam, Netherlands
 * [Keyrock](https://keyrock.com/careers/) is a market maker based out of Brussels, Belgium, uses Rust in its low latency components along with C++
 * [TLX Technology](https://www.linkedin.com/company/tlx-technology/) is a software provider for trading platforms, based in Amsterdam
 
