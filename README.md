@@ -58,6 +58,7 @@ This project exists to help Rust developers to apply for jobs and get hired.
 * [Flow Traders](https://www.flowtraders.com/careers/job-search/) is a market maker based in Amsterdam, uses Rust for DeFi, Blockchain, Digital Assets and other components
 * [Gravity Team](https://gravityteam.co/careers/) is a propshop with offices in Riga, Latvia and Amsterdam, Netherlands
 * [Keyrock](https://keyrock.com/careers/) is a market maker based out of Brussels, Belgium, uses Rust in its low latency components along with C++
+* [QRT (Qube Research & Technologies)](https://www.qube-rt.com/careers/) is a hedge fund based out of London with offices in Singapore and Hong Kong
 * [TLX Technology](https://www.linkedin.com/company/tlx-technology/) is a software provider for trading platforms, based in Amsterdam
 
 
