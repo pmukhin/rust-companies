@@ -15,6 +15,7 @@ This project exists to help Rust developers to apply for jobs and get hired.
 
 #### Commerce
 * [commercetools](https://commercetools.com/careers/jobs) uses Rust in its GraphQL API
+* [OTTO](https://www.otto.de/jobs/de/) is the largest German online shop and one of the largest employers in Hamburg
 * [Stockly](https://www.welcometothejungle.com/fr/companies/stockly/jobs) claims their back-end is written entirely in Rust
 
 #### Consultancy
